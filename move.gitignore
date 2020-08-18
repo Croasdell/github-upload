@@ -9,7 +9,7 @@ ExportedFiles.xml
 
 # Ignore deployment files
 [Mm]odel/[Dd]eployment
-# dev 2
+# dev
 
 # Force include portal SupportFiles
 !Model/Portal/*/SupportFiles/[Bb]in/
